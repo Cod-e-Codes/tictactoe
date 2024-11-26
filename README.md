@@ -17,7 +17,10 @@ This is a modern and stylish Tic Tac Toe app developed with Flutter. It offers t
 
 ## Screenshots
 
-<img src="screenshot1.png" alt="Screenshot 1" width="200"><img src="screenshot2.png" alt="Screenshot 2" width="200">
+<div style="display: flex; gap: 20px;">
+  <img src="screenshot1.png" alt="Screenshot 1" width="400">
+  <img src="screenshot2.png" alt="Screenshot 2" width="400">
+</div>
 
 ## Installation
 
